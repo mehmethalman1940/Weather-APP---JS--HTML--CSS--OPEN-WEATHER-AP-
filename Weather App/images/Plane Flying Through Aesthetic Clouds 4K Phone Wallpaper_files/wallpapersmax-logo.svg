@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="590.5" height="525.719" viewBox="0 0 590.5 525.719">
+
+<defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <filter id="filter" x="1.781" y="49.125" width="590.5" height="525.719" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="1.78125" y="49.125" width="590.5" height="525.719" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNTkwLjUiIGhlaWdodD0iNTI1LjcxOSIgdmlld0JveD0iMCAwIDU5MC41IDUyNS43MTkiPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICAuY2xzLTEgewogICAgICAgIGZpbGw6IHVybCgjbGluZWFyLWdyYWRpZW50KTsKICAgICAgfQogICAgPC9zdHlsZT4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50IiB4MT0iMTU1LjQ4NSIgeTE9IjUyNS43MTkiIHgyPSI0MzUuMDE1IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzAwZWFmZiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjAuMTYzIiBzdG9wLWNvbG9yPSIjMzU3ZWRkIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMC41NTQiIHN0b3AtY29sb3I9IiNmNzAxYmEiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIwLjg0MyIgc3RvcC1jb2xvcj0iI2ZmODUwMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNmZmFlMDAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjU5MC41IiBoZWlnaHQ9IjUyNS43MTkiLz4KPC9zdmc+Cg=="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+      <feGaussianBlur result="blur" stdDeviation="40.333" in="SourceAlpha"/>
+      <feFlood result="flood" flood-color="#fff" flood-opacity="0.41"/>
+      <feComposite result="composite-3" operator="out" in2="blur"/>
+      <feComposite result="composite-2" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-2" in2="blend"/>
+    </filter>
+  </defs>
+  <path class="cls-1" d="M92.719,55.747s49.3-22.373,107.928,15.086c108.668,69.426,114.718,57.569,139.6,63.091s82.384,7.1,97.625,9.188,62.007,12.5,80.615,20.908,49.867,26.558,65.789,74.062c14.593,43.536,5.773,77.61.424,102.279-6.719,30.991-31.916,80.7-49.058,102.352-14.692,18.561-44.581,49.647-73.257,67.038-28.371,17.205-53.75,24.147-66.633,28.963S311.911,555.973,302.69,557.6,206.2,574.817,195,574.838s-44.384-1.193-73.075-16.8S78.689,511.8,72.061,495.255c-9.41-23.482-3.349-67.473-2.225-80.859,2.717-32.363-4.251-65.87-8.7-78.614-5.144-14.745-29.252-53.19-36.305-67.491C8.358,234.885,2.211,201.141,1.878,190.882c-1.115-34.391,9.325-55.126,13.779-65.857C36.67,74.4,92.719,55.747,92.719,55.747Z" transform="translate(-1.781 -49.125)"/>
+  <path id="w_" data-name="w " class="cls-2" d="M130.655,372.42H463.861l-11.786,22.214H142.442Zm166.83,34.454H445.274l-13.146,24.934H311.085Zm-148.7,0H296.125l-13.147,24.934H161.936Zm81.6-68.908H360.5l9.973,19.947H222.684Zm85.229,102.909H427.141l-14.507,27.654H330.579Zm-149.15,0H277.991l-14.96,27.654h-81.6ZM382.713,337.966H482l-10.427,19.947H372.286Zm-270.645,0H210.9l10.427,19.947H122.948Zm131.469-34-0.453-.454H343.273l9.066,17.681h-115.6Zm156.857-.454H500.582l-9.52,17.681H391.327Zm-306.459,0H193.67l9.067,17.681H103.455ZM225.4,269.058H326.5l7.707,15.414H233.564Zm192.67,0H518.716l-8.16,15.414H410.367Zm-342.273,0H175.989l8.161,15.414H83.961ZM207.723,234.6H309.272l6.347,13.147h-101.1Zm228.485,0H537.3l-7.254,13.147H429.407Zm-378.541,0H158.309l6.8,13.147H64.467ZM190.043,200.15h102l4.987,10.427H195.483Zm-150.509,0H141.082l4.987,10.427H44.974Zm414.354,0H555.436L550,210.577H448.448Z" transform="translate(-1.781 -49.125)"/>
+</svg>
